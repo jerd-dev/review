@@ -10,7 +10,7 @@
                 "rating_id": 1,
                 "rating_name": "Calidad del producto",
                 "percent": 100,
-                "value": 5
+                "value": 3
             }
         ],
         "review_entity": "product",
